@@ -1,0 +1,7 @@
+﻿LIBRARY    "AddInZabbixSender"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities

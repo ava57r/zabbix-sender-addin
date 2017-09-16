@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# VS
+.vs/
+build/
+build64/
+bin/
+bin64/
+bind/
+ipch/
+*.VC.db
